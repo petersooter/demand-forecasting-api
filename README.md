@@ -9,8 +9,9 @@ Built as a portfolio demo of the FDE motion: here is a working solution, here is
 ## Live Demo
 
 ```
-POST https://demand-forecasting-api.azurewebsites.net/forecast
-GET  https://demand-forecasting-api.azurewebsites.net/docs
+POST https://demand-forecasting-api-ig88.onrender.com/forecast
+GET  https://demand-forecasting-api-ig88.onrender.com/docs
+GET  https://demand-forecasting-api-ig88.onrender.com/health
 ```
 
 ---
